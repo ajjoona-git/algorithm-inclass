@@ -1,7 +1,8 @@
 # 4828. min max
 
 ## 문제 출처
-[SWEA](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+[SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTLQZwKon4DFAVT&categoryId=AWTLQZwKon4DFAVT&categoryType=CODE)
+
 ## 💡 접근 방식
 
 ### 1. 사용 알고리즘
