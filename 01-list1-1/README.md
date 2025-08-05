@@ -5,7 +5,7 @@
 
 ## 💡 관련 개념
 
-* [**버블 정렬(Bubble Sort)**](링크)
+* [**버블 정렬(Bubble Sort)**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/bubble-sort.md)
 
 ## 📌 문제 목록
 
