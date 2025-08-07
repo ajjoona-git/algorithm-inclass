@@ -5,7 +5,7 @@
 
 ## 💡 관련 개념
 
-* [**카운트 정렬(Count Sort)**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/counting-sort.md)
+* [**카운팅 정렬(Counting Sort)**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/counting-sort.md)
 
 ## 📌 문제 목록
 
