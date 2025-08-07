@@ -7,6 +7,8 @@
 
 * [**2차원 배열**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/2d-array.md)
 * [**델타 이동**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/delta.md)
+* [**부분 집합**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/power-set.md)
+
 
 ## 📌 문제 목록
 
