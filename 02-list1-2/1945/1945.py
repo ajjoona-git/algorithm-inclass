@@ -1,7 +1,7 @@
 # 1945. 간단한 소인수분해
 
-import sys
-sys.stdin = open("input.txt")
+# import sys
+# sys.stdin = open("input.txt")
 
 T = int(input())  # 테스트 케이스의 수
 
