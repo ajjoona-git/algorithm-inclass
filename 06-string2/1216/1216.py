@@ -1,8 +1,8 @@
 # 1216. 회문2
 # 시간이 너무 많이 걸림! (테스트케이스는 나오는데, 제출하면 output 안 나옴)
 
-import sys
-sys.stdin = open('input.txt')
+# import sys
+# sys.stdin = open('input.txt')
 
 def is_palindrome(word, k):
     for i in range(k//2):
@@ -27,12 +27,12 @@ for _ in range(T):
             for k in range(N-j, max_len, -1):
                 # 가로 문자
                 # 최대 길이 갱신
-                if is_palindrome(arr[i][j:j+k], k) and k > max_len:
+                if is_palindrome(arr[i][j:j+k], k):
                     max_len = k
             
                 # 세로 문자
                 word = list(zip(*arr[j:j+k]))[i]
-                if is_palindrome(word, k) and k > max_len:
+                if is_palindrome(word, k):
                     max_len = k
             
     

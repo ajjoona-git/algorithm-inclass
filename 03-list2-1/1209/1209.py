@@ -1,7 +1,7 @@
 # 1209. Sum
 
-import sys
-sys.stdin = open("input.txt")
+# import sys
+# sys.stdin = open("input.txt")
 
 T = 10  # 테스트 케이스의 수
 
