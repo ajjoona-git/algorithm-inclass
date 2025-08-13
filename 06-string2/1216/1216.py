@@ -31,7 +31,9 @@ for _ in range(T):
                     max_len = k
             
                 # 세로 문자
-                word = list(zip(*arr[j:j+k]))[i]
+                word = ''
+                for c in range(j, j+k):
+                    word += arr[c][i]
                 if is_palindrome(word, k):
                     max_len = k
             
