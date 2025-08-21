@@ -22,11 +22,12 @@ for tc in range(1, T+1):
             synergy[0] += arr[i][j] + arr[j][i]
         
         # 남은 재료는 B음식을 만든다.
-        group_b = []
-        for i in range(N):
-            if i not in group_a:
-                group_b.append(i) 
-
+        # group_b = []
+        # for i in range(N):
+        #     if i not in group_a:
+        #         group_b.append(i)
+        group_b = [i for i in range(N) if i not in group_a]
+        
         # B음식에서 각 재료들의 시너지
         for i, j in combinations(group_b, 2):
             synergy[1] += arr[i][j] + arr[j][i]
