@@ -5,7 +5,7 @@
 
 ## 💡 관련 개념
 
-* [**그래프**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/graph.md)
+* [**그래프**](https://github.com/ajjoona-git/TIL/blob/master/data-structure/graph.md)
 * [**DFS (깊이 우선 탐색, Depth-First Search)**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/dfs.md)
 
 

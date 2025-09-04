@@ -5,7 +5,7 @@
 
 ## 💡 관련 개념
 
-* [**트리**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/tree.md)
+* [**트리**](https://github.com/ajjoona-git/TIL/blob/master/data-structure/tree.md)
 
 
 ## 📌 문제 목록

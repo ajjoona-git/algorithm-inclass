@@ -5,7 +5,7 @@
 
 ## 💡 관련 개념
 
-* [**스택**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/stack.md)
+* [**스택**](https://github.com/ajjoona-git/TIL/blob/master/data-structure/stack.md)
 
 
 ## 📌 문제 목록

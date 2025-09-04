@@ -5,7 +5,7 @@
 
 ## 💡 관련 개념
 
-* [**2차원 배열**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/2d-array.md)
+* [**2차원 배열**](https://github.com/ajjoona-git/TIL/blob/master/data-structure/array.md)
 * [**델타 이동**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/delta.md)
 * [**부분 집합**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/power-set.md)
 

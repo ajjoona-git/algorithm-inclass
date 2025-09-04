@@ -5,7 +5,7 @@
 
 ## 💡 관련 개념
 
-* [**문자열**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/string.md)
+* [**문자열**](https://github.com/ajjoona-git/TIL/blob/master/data-structure/string.md)
 * [**패턴 매칭**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/brute-force.md)
 
 ## 📌 문제 목록

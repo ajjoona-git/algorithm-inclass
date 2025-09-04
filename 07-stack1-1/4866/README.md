@@ -1,7 +1,7 @@
 # 4866. 괄호 검사 | D2
 
 ## 문제 출처
-![SWEA](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+[SWEA](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
 
 ## 💡 접근 방식
 

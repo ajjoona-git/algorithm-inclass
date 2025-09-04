@@ -6,7 +6,7 @@
 ## 💡 관련 개념
 
 * [**코드 체계**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/incoding.md)
-* [**문자열**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/string.md)
+* [**문자열**](https://github.com/ajjoona-git/TIL/blob/master/data-structure/string.md)
 
 ## 📌 문제 목록
 

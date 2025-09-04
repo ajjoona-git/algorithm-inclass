@@ -1,7 +1,7 @@
 # 1231. 중위순회 | D4
 
 ## 문제 출처
-![SWEA](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZh9Pr4Kw1nHBINp&contestProbId=AV140YnqAIECFAYD&probBoxId=AZjPzi56xljHBIO0&type=PROBLEM&problemBoxTitle=Tree&problemBoxCnt=3)
+[SWEA](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZh9Pr4Kw1nHBINp&contestProbId=AV140YnqAIECFAYD&probBoxId=AZjPzi56xljHBIO0&type=PROBLEM&problemBoxTitle=Tree&problemBoxCnt=3)
 
 ## 💡 접근 방식
 

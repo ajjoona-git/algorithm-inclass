@@ -5,8 +5,7 @@
 
 ## 💡 관련 개념
 
-* [**큐 (Queue)**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/queue.md)
-* [**데크 (Deque)**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/deque.md)
+* [**큐 (Queue, Deque, Priority Queue)**](https://github.com/ajjoona-git/TIL/blob/master/data-structure/queue.md)
 
 
 ## 📌 문제 목록

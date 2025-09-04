@@ -5,7 +5,7 @@
 
 ## 💡 관련 개념
 
-* [**1차원 배열**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/sort.md)
+* [**1차원 배열**](https://github.com/ajjoona-git/TIL/blob/master/data-structure/array.md)
 * [**버블 정렬(Bubble Sort)**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/bubble-sort.md)
 
 ## 📌 문제 목록

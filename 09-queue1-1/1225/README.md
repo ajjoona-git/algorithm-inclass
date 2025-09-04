@@ -1,7 +1,7 @@
 # 1225. 암호생성기 | D3
 
 ## 문제 출처
-![SWEA](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZh9Pr4Kw1nHBINp&contestProbId=AV14uWl6AF0CFAYD&probBoxId=AZh9VAAaxs3HBINp&type=PROBLEM&problemBoxTitle=Queue&problemBoxCnt=6)
+[SWEA](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZh9Pr4Kw1nHBINp&contestProbId=AV14uWl6AF0CFAYD&probBoxId=AZh9VAAaxs3HBINp&type=PROBLEM&problemBoxTitle=Queue&problemBoxCnt=6)
 
 ## 💡 접근 방식
 
