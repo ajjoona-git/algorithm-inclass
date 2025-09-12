@@ -6,7 +6,9 @@
 ## 💡 관련 개념
 
 * [**분할 정복**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/divide-conquer.md)
-
+* [**퀵 정렬 (Quick Sort)**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/quick-sort.md)
+* [**병합 정렬 (Merge Sort)**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/merge-sort.md)
+* [**이진 검색 (Binary Search)**](https://github.com/ajjoona-git/TIL/blob/master/algorithm/binary-search.md)
 
 ## 📌 문제 목록
 
