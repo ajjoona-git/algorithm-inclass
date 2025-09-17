@@ -43,7 +43,6 @@ def kruskal(num_v):
     return min_cost
 
 
-
 T = int(input())
 for tc in range(1, T+1):
     V, E = map(int, input().split())

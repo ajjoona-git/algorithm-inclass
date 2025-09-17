@@ -54,6 +54,7 @@
 | [문제 풀이 2](./19-problem-solve2/) | 2025.09.12. | 2 | 백트래킹, DFS, DP |
 | [그래프 1-1](./20-graph1-1/) | 2025.09.15. | 2 | 그래프, 서로소 집합(Union-Find) |
 | [그래프 1-2](./21-graph1-2/) | 2025.09.16. | 3 | MST, Prim, Kruska, Dijkstra |
+| [문제 풀이 3](./22-problem-solve3/) | 2025.09.17. | 4 | MST, Prim, Kruska, Dijkstra |
 
 
 ---
